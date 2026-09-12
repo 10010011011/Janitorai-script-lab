@@ -2,9 +2,9 @@
 
 A free, single-file tool for writing, testing, and debugging **JanitorAI Advanced Scripts** and **Lorebook Activation scripts** — entirely in your browser, with no install and no sign-up.
 
-**[Open the live tool →](#)** *(replace with your GitHub Pages link once published — see below)*
+**[Open the live tool →](https://10010011011.github.io/Janitorai-script-lab/)** *(replace with your GitHub Pages link once published — see below)*
 
-Made by [S-101](https://janitorai.com/profiles/1df4ba6c-d08b-4557-a522-459820ab9ee1_profile-of-s-101) on JanitorAI.
+Made by [S-101 (link to janitorai profile)](https://janitorai.com/profiles/1df4ba6c-d08b-4557-a522-459820ab9ee1_profile-of-s-101) on JanitorAI.
 
 ## Why this exists
 
